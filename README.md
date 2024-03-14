@@ -5,7 +5,7 @@ Este é um projeto da pós-graduação em Data Analytics pela FIAP.
 
 Projeto de análise de dados da IBOVESPA (Bolsa de Valores do Brasil). Durante este projeto, desenvolvemos uma empresa fictícia chamada Héracles Investments para embasar nosso storytelling.
 
-Precisávamos desenvolver um modelo preditivo através de uma série temporal para prever o fechamento.
+Precisávamos desenvolver um modelo preditivo através de uma série temporal para prever o fechamento do IBOV com uma acuracidade >70%. 
 
 Com isso, fomos escalados para uma equipe de investimentos em que atuamos como Cientistas de Dados para realizar o desenvolvimento desse modelo.
 
