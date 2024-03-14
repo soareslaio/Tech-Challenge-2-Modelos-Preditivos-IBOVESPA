@@ -13,6 +13,8 @@ Para o desenvolvimento desse projeto, foi necessário utilizar o GitHub para ana
 
 Como resultado, identificamos:
 
-O modelo de médias móveis com uma janela de 5 dias apresentou um MAPE de 1,82%, demonstrando uma precisão satisfatória na previsão do Índice Bovespa (IBOV).
+o modelo de médias móveis (MA) com uma janela de 5 dias apresentou um MAPE de 1,82%, demonstrando uma precisão alta na previsão do Índice Bovespa (IBOV).
+
+Porém, para evitar que o modelo esteja com overfitting decidimos escolher a MA de 30 dias com um MAPE de 4,08%.
 
 Link do medium: https://medium.com/@laiosoares6/f1af73e4ca73
